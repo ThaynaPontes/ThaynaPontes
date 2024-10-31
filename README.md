@@ -13,7 +13,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/thaynapontes/thaynapontes/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/thaynapontes/.github/workflows/snake.yml" alt="Snake animation" />
 
 ###
 
