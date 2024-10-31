@@ -13,6 +13,10 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/thaynapontes/thaynapontes/output/snake.svg" alt="Snake animation" />
+
+###
+
 ###
 
 <div align="center">
